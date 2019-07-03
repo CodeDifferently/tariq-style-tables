@@ -1,0 +1,17 @@
+td {
+    padding:0 15px 0 15px;
+    background-color: blue;
+    color: cyan;
+}
+
+#col1 {
+  color: red
+}
+
+#col2 {
+  color: white
+}
+
+body {
+   background-image: url("https://ak0.picdn.net/shutterstock/videos/4007890/thumb/1.jpg");
+}
